@@ -1,7 +1,7 @@
 ### Hi there, I'm Karim.2501 👋
 
 [![Website](https://img.shields.io/website?label=karim2501.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://karim2501.gub.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Karim_Bengkulu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Karim_Bengkulu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=Karim_Bengkulu)
 
 ## I'm a Student and study in SMKN 1 Kota Bengkulu
 
