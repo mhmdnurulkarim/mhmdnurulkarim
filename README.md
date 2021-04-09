@@ -33,10 +33,10 @@
 [youtube]: https://youtube.com/c/Karim2501
 [instagram]: https://instagram.com/Karim.2501/
 [linkedin]: https://linkedin.com/in/mnurulkarim0/
-[VSC] : https://code.visualstudio.com/
-[HTML] : https://wikipedia.org/wiki/HTML
-[CSS] : https://wikipedia.org/wiki/Cascading_Style_Sheets
-[JS] : https://www.javascript.com/
-[MYSQL] : https://www.mysql.com/
-[GITHUB] : https://www.github.com
-[TM] : https://kubuntu.org/
+[VSC]: https://code.visualstudio.com/
+[HTML]: https://wikipedia.org/wiki/HTML
+[CSS]: https://wikipedia.org/wiki/Cascading_Style_Sheets
+[JS]: https://www.javascript.com/
+[MYSQL]: https://www.mysql.com/
+[GITHUB]: https://www.github.com
+[TM]: https://kubuntu.org/
