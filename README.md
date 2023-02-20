@@ -1,31 +1,34 @@
-### Hi, I'm Karim.2501. Nice to Meet You
-[![Website](https://img.shields.io/website?label=karim2501.github.io&style=for-the-badge&url=https%3A%2F%2Fkarim2501.github.io)](https://karim2501.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Karim_Bengkulu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=Karim_Bengkulu)
-### Connect with me:
-[<img align="left" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/google.svg"/>][website]
-[<img align="left" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg"/>][youtube]
-[<img align="left" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"/>][twitter]
-[<img align="left" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>][linkedin]
-[<img align="left" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>][instagram]
-<br>
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"/>][VSC]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png"/>][HTML]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png"/>][CSS]
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"/>][JS]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"/>][MYSQL]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg"/>][GITHUB]
-[<img align="left" alt="Terminal" width="26px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png"/>][TM]
+### <samp>&gt; Hi there, I'm <a href="https://karim2501.github.io" target="_blank">Muhammad Nurul Karim</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[website]: https://karim2501.github.io
-[twitter]: https://twitter.com/Karim_Bengkulu
-[youtube]: https://youtube.com/c/Karim2501
-[instagram]: https://instagram.com/Karim.2501/
-[linkedin]: https://linkedin.com/in/mnurulkarim0/
-[VSC]: https://code.visualstudio.com/
-[HTML]: https://wikipedia.org/wiki/HTML
-[CSS]: https://wikipedia.org/wiki/Cascading_Style_Sheets
-[JS]: https://www.javascript.com/
-[MYSQL]: https://www.mysql.com/
-[GITHUB]: https://www.github.com
-[TM]: https://kubuntu.org/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][Linkedin]
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)][Website]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][Instagram]
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)][Telegram]
+
+### Glad to see you here! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Karim2501.Karim.2501&left_text=Visitors)
+
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Karim2501/Karim2501/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
+- <img src="https://github.com/Karim2501/Karim2501/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
+- <img src="https://github.com/Karim2501/Karim2501/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: mhmdnurulkarim@gmail.com.
+- <img src="https://github.com/Karim2501/Karim2501/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [My resume][Resume].
+
+</br>
+
+**My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karim2501&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim2501&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+[Linkedin]: https://linkedin.com/in/mnurulkarim
+[Website]: https://karim2501.github.io
+[Instagram]: https://instagram.com/Karim.2501/
+[Telegram]: https://t.me/MNKarim
+[Resume]: https://gkassym.netlify.app/Resume.pdf
