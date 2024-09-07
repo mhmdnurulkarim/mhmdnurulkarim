@@ -2,42 +2,45 @@
 
 <img src="https://raw.githubusercontent.com/asmitbm/asmitbm/master/src/header_.png">
 
-![version: 06.09.2024](https://img.shields.io/badge/version-06.09.2024-informational?&color=blue&style=flat)&nbsp;
+![version: 07.09.2024](https://img.shields.io/badge/version-06.09.2024-informational?&color=blue&style=flat)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=mhmdnurulkarim&color=blue&style=flat&label=visitors&abbreviated=false)
 [![GitHub: mhmdnurulkarim](https://img.shields.io/github/followers/mhmdnurulkarim?label=follow&style=social)][Github]
 
 ## Welcome to my [Codepark][Website]! 🏡
 
-----
+---
 
 ## ⚡ Tech Stack
 
 ### 🧑🏻‍💻 Languages & Framework
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=ffcd34)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
-![Android](https://img.shields.io/badge/_Android_Studio-34A853?style=flat&logo=android&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"/>&nbsp;
+</div>
 
 ### 💻 Workspace
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />&nbsp;
+</div>
 
-----
+---
 
 ## 📊 GitHub Stats:
 
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmdnurulkarim&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="mhmdnurulkarim's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdnurulkarim&langs_count=8&layout=compact&hide_border=true" alt="mhmdnurulkarim's Most Used Language"> |
-| ---- | ---- |
+| <img align="center" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmdnurulkarim&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="mhmdnurulkarim's GitHub Stats"> | <img align="center" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdnurulkarim&langs_count=8&layout=compact&hide_border=true" alt="mhmdnurulkarim's Most Used Language"> |
+| --- | --- |
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdnurulkarim&hide_border=true&theme=sea"> |
-| ---- |
-
-----
+| --- |
+---
 
 ## 🤝🏻 Connect with Me!
 
@@ -47,7 +50,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)][Instagram]
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)][Telegram]
 
-----
+---
 
 ## ✍️ Random Dev Quote
 
