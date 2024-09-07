@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/asmitbm/asmitbm/master/src/header_.png">
 
-![version: 07.09.2024](https://img.shields.io/badge/version-06.09.2024-informational?&color=blue&style=flat)&nbsp;
+![version: 07.09.2024](https://img.shields.io/badge/version-07.09.2024-informational?&color=blue&style=flat)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=mhmdnurulkarim&color=blue&style=flat&label=visitors&abbreviated=false)
 [![GitHub: mhmdnurulkarim](https://img.shields.io/github/followers/mhmdnurulkarim?label=follow&style=social)][Github]
 
@@ -14,22 +14,18 @@
 
 ### 🧑🏻‍💻 Languages & Framework
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"/>&nbsp;
-</div>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>][Kotlin]&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>][Flutter]&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>][Firebase]&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>][Figma]&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>][Android Studio]&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"/>][Laravel]&nbsp;
+[<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"/>][TensorFlow]&nbsp;
 
 ### 💻 Workspace
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"/>&nbsp;
-</div>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"/>][Windows]&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"/>][Fedora]&nbsp;
 
 ---
 
@@ -40,6 +36,7 @@
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdnurulkarim&hide_border=true&theme=sea"> |
 | --- |
+
 ---
 
 ## 🤝🏻 Connect with Me!
@@ -55,6 +52,16 @@
 ## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[Kotlin]: https://kotlinlang.org/
+[Flutter]: https://flutter.dev/
+[Firebase]: https://firebase.google.com/
+[Figma]: https://www.figma.com/
+[Android Studio]: https://developer.android.com/studio
+[Laravel]: https://laravel.com/
+[TensorFlow]: https://www.tensorflow.org/
+[Windows]: https://www.microsoft.com/software-download/windows11
+[Fedora]: https://fedoraproject.org/
 
 [Linkedin]: https://linkedin.com/in/mhmdnurulkarim
 [Email]: mailto:mhmdnurulkarim@gmail.com
